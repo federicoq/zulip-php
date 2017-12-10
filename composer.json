@@ -1,6 +1,7 @@
 {
   "name": "federicoq/zulip-php",
   "description": "Zuilip PHP Client",
+  "keywords": ["zulip", "php", "chat", "bot"],
   "type": "library",
   "autoload": {
     "psr-4": {
