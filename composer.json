@@ -1,0 +1,20 @@
+{
+  "name": "federicoq/zulip-php",
+  "description": "Zuilip PHP Client",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "ZulipPhp\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Federico Quagliotto",
+      "email": "federico.quagliotto@gmail.com"
+    }
+  ]
+}
